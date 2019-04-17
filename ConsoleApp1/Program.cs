@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             for(int i=1;i<=10;i++)
             {
-                Console.WriteLine(i*1);
+                Console.WriteLine(i*2);
             }
             Console.ReadLine();
         }
